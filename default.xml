@@ -25,6 +25,7 @@
   <project name="cm12-amami/android" path="android" />
   <project name="cm12-amami/android_bionic" path="bionic" groups="pdk" />
   <project name="cm12-amami/android_bootable_recovery" path="bootable/recovery" groups="pdk" />
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" groups="pdk" revision="android-8.1"/>
   <project name="cm12-amami/android_device_common" path="device/common" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_aac" path="external/aac" groups="pdk" />
   <project name="cm12-amami/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" groups="pdk" />

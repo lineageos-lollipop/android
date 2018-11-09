@@ -27,6 +27,7 @@
   <project name="cm12-amami/android_bootable_recovery" path="bootable/recovery" groups="pdk" />
   <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" groups="pdk" revision="android-8.1"/>
   <project name="cm12-amami/android_device_common" path="device/common" groups="pdk-cw-fs" />
+  <project name="cm12-amami/android_device_qcom_sepolicy" path="device/qcom/sepolicy" />
   <project name="cm12-amami/android_external_aac" path="external/aac" groups="pdk" />
   <project name="cm12-amami/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" groups="pdk" />
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
@@ -39,6 +40,7 @@
   <project name="cm12-amami/android_external_neven" path="external/neven" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_openssl" path="external/openssl" />
   <project name="cm12-amami/android_external_pdfium" path="external/pdfium" groups="pdk-cw-fs" />
+  <project name="cm12-amami/android_external_sepolicy" path="external/sepolicy" groups="pdk" />
   <project name="cm12-amami/android_external_sfntly" path="external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
   <project name="cm12-amami/android_external_skia" path="external/skia" groups="pdk-cw-fs,qcom_msm8x26" />
   <project name="cm12-amami/android_external_sonivox" path="external/sonivox" groups="pdk" />

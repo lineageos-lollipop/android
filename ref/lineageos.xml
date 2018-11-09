@@ -12,7 +12,6 @@
   <project path="device/generic/goldfish" name="LineageOS/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/mips" name="LineageOS/android_device_generic_mips" groups="pdk" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device" />
-  <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" />
   <project path="external/android-mock" name="LineageOS/android_external_android-mock" />
   <project path="external/android-visualizer" name="LineageOS/android_external_android-visualizer" />
   <project path="external/android/support-prebuilt" name="LineageOS/external_android_support-prebuilt" revision="master" />
@@ -87,7 +86,6 @@
   <project path="external/protobuf-c" name="LineageOS/android_external_protobuf-c" />
   <project path="external/qrngd" name="LineageOS/android_external_qrngd" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" />
-  <project path="external/sepolicy" name="LineageOS/android_external_sepolicy" groups="pdk" />
   <project path="external/speex" name="LineageOS/android_external_speex" groups="pdk" />
   <project path="external/spongycastle" name="LineageOS/android_external_spongycastle" groups="pdk" />
   <project path="external/square/dagger" name="LineageOS/android_external_square_dagger" />

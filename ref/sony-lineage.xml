@@ -4,6 +4,6 @@
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" />
   <project name="LineageOS/android_hardware_qcom_fm" path="hardware/qcom/fm" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" />
-  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" clone-depth="1" />
 </manifest>
 

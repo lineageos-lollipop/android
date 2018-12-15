@@ -109,6 +109,6 @@
   <!-- Privacy-Browser (stoutner.com) -->
   <remote name="stoutner" fetch="git://git.stoutner.com" />
   <project path="external/stoutner/privacy-browser" remote="stoutner"
-           name="git/PrivacyBrowserROMIntegration.git" revision="master" />
+           name="git/PrivacyBrowserROMIntegration.git" clone-depth="1" revision="master" />
 
 </manifest>

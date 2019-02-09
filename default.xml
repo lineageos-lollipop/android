@@ -70,6 +70,7 @@
   <project name="cm12-amami/android_packages_apps_Dialer" path="packages/apps/Dialer" />
   <project name="cm12-amami/android_packages_apps_Email" path="packages/apps/Email" />
   <project name="cm12-amami/android_packages_apps_LockClock" path="packages/apps/LockClock" />
+  <project name="cm12-amami/android_packages_apps_ManagedProvisioning" path="packages/apps/ManagedProvisioning" />
   <project name="cm12-amami/android_packages_apps_Nfc" path="packages/apps/Nfc" />
   <project name="cm12-amami/android_packages_apps_PackageInstaller" path="packages/apps/PackageInstaller" />
   <project name="cm12-amami/android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" />

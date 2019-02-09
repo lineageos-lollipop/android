@@ -170,7 +170,6 @@
   <project path="packages/apps/HTMLViewer" name="LineageOS/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="LineageOS/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" name="LineageOS/android_packages_apps_KeyChain" />
-  <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" />
   <project path="packages/apps/Mms" name="LineageOS/android_packages_apps_Mms-caf" />
   <project path="packages/apps/PhoneCommon" name="LineageOS/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />

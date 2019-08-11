@@ -25,6 +25,7 @@
   </project>
   <!-- common -->
   <project name="cm12-amami/android" path="android" />
+  <project name="cm12-amami/android_art" path="art" groups="pdk" />
   <project name="cm12-amami/android_bionic" path="bionic" groups="pdk" />
   <project name="cm12-amami/android_bootable_recovery" path="bootable/recovery" groups="pdk" />
   <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" groups="pdk" revision="android-8.1"/>
@@ -32,6 +33,7 @@
   <project name="cm12-amami/android_device_qcom_sepolicy" path="device/qcom/sepolicy" />
   <project name="cm12-amami/android_external_aac" path="external/aac" groups="pdk" />
   <project name="cm12-amami/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" groups="pdk" />
+  <project name="cm12-amami/android_external_chromium-libpac" path="external/chromium-libpac" />
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
   <project name="cm12-amami/android_external_e2fsprogs" path="external/e2fsprogs" groups="pdk" />
   <project name="cm12-amami/android_external_libhevc" path="external/libhevc" />

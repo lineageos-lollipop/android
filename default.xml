@@ -36,6 +36,7 @@
   <project name="cm12-amami/android_external_chromium-libpac" path="external/chromium-libpac" />
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
   <project name="cm12-amami/android_external_e2fsprogs" path="external/e2fsprogs" groups="pdk" />
+  <project name="cm12-amami/android_external_libcxx" path="external/libcxx" groups="pdk" />
   <project name="cm12-amami/android_external_libhevc" path="external/libhevc" />
   <project name="cm12-amami/android_external_libnfc-nci" path="external/libnfc-nci" groups="pdk" />
   <project name="cm12-amami/android_external_libvorbis" path="external/libvorbis" groups="pdk-cw-fs" />

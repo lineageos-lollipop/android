@@ -82,6 +82,7 @@
   <project name="cm12-amami/android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" />
   <project name="cm12-amami/android_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" />
   <project name="cm12-amami/android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" />
+  <project name="cm12-amami/android_packages_providers_TelephonyProvider" path="packages/providers/TelephonyProvider" />
   <project name="cm12-amami/android_packages_providers_UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" />
   <project name="cm12-amami/android_packages_services_Telephony" path="packages/services/Telephony" />
   <project name="cm12-amami/android_platform_external_giflib" path="external/giflib" groups="pdk-cw-fs,qcom_msm8x26" />  

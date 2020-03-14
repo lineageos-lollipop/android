@@ -40,10 +40,10 @@
   <project name="cm12-amami/android_external_libhevc" path="external/libhevc" />
   <project name="cm12-amami/android_external_libnfc-nci" path="external/libnfc-nci" groups="pdk" />
   <project name="cm12-amami/android_external_libvorbis" path="external/libvorbis" groups="pdk-cw-fs" />
-  <project name="cm12-amami/android_external_libvpx" path="external/libvpx" />
+  <project name="cm12-amami/android_external_libvpx" path="external/libvpx" groups="pdk" />
   <project name="cm12-amami/android_external_libxml2" path="external/libxml2" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_neven" path="external/neven" groups="pdk-cw-fs" />
-  <project name="cm12-amami/android_external_openssl" path="external/openssl" />
+  <project name="cm12-amami/android_external_openssl" path="external/openssl" groups="pdk" />
   <project name="cm12-amami/android_external_pdfium" path="external/pdfium" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_sepolicy" path="external/sepolicy" groups="pdk" />
   <project name="cm12-amami/android_external_sfntly" path="external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
@@ -52,10 +52,10 @@
   <project name="cm12-amami/android_external_sqlite" path="external/sqlite" groups="pdk" />
   <project name="cm12-amami/android_external_svox" path="external/svox" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_tremolo" path="external/tremolo" groups="pdk" />
-  <project name="cm12-amami/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" />
+  <project name="cm12-amami/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" groups="pdk" />
   <project name="cm12-amami/android_frameworks_av" path="frameworks/av" groups="pdk" />
-  <project name="cm12-amami/android_frameworks_base" path="frameworks/base" />
-  <project name="cm12-amami/android_frameworks_ex" path="frameworks/ex" />
+  <project name="cm12-amami/android_frameworks_base" path="frameworks/base" groups="pdk-cw-fs" />
+  <project name="cm12-amami/android_frameworks_ex" path="frameworks/ex" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_frameworks_minikin" path="frameworks/minikin" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_frameworks_native" path="frameworks/native" groups="pdk" />
   <project name="cm12-amami/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" groups="pdk" />

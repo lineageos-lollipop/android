@@ -147,7 +147,6 @@
   <project path="external/oprofile" name="platform/external/oprofile" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" remote="aosp" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" />
-  <project path="external/ppp" name="platform/external/ppp" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk-java,tradefed" remote="aosp" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" remote="aosp" />
   <project path="external/qemu" name="platform/external/qemu" groups="pdk-cw-fs" remote="aosp" />

@@ -45,6 +45,7 @@
   <project name="cm12-amami/android_external_neven" path="external/neven" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_openssl" path="external/openssl" groups="pdk" />
   <project name="cm12-amami/android_external_pdfium" path="external/pdfium" groups="pdk-cw-fs" />
+  <project name="cm12-amami/android_external_ppp" path="external/ppp" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_sepolicy" path="external/sepolicy" groups="pdk" />
   <project name="cm12-amami/android_external_sfntly" path="external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
   <project name="cm12-amami/android_external_skia" path="external/skia" groups="pdk-cw-fs,qcom_msm8x26" />

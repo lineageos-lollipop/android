@@ -139,8 +139,6 @@
   <project path="hardware/nvidia/audio" name="LineageOS/android_hardware_nvidia_audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" name="LineageOS/android_hardware_nvidia_tegra124" groups="tegra124" />
   <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" groups="qcom" />
-  <project path="hardware/qcom/display" name="LineageOS/android_hardware_qcom_display" groups="qcom,qcom_display" />
-  <project path="hardware/qcom/display-caf/msm8974" name="LineageOS/android_hardware_qcom_display" groups="qcom,qcom_display" revision="cm-12.1-caf-8974" />
   <project path="hardware/qcom/gps" name="LineageOS/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="LineageOS/android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" />
@@ -192,7 +190,6 @@
   <project path="packages/screensavers/PhotoTable" name="LineageOS/android_packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" name="LineageOS/android_packages_screensavers_WebView" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" />
-  <project path="packages/services/Telecomm" name="LineageOS/android_packages_services_Telecomm" />
   <project path="packages/wallpapers/Basic" name="LineageOS/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" name="LineageOS/android_packages_wallpapers_Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="LineageOS/android_packages_wallpapers_HoloSpiral" />

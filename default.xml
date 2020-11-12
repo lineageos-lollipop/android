@@ -36,6 +36,7 @@
   <project name="cm12-amami/android_external_chromium-libpac" path="external/chromium-libpac" />
   <project name="cm12-amami/android_external_chromium_org_v8" path="external/chromium_org/v8" /> 
   <project name="cm12-amami/android_external_e2fsprogs" path="external/e2fsprogs" groups="pdk" />
+  <project name="cm12-amami/android_external_freetype" path="external/freetype" groups="pdk" revision="cm-13.0" />
   <project name="cm12-amami/android_external_libcxx" path="external/libcxx" groups="pdk" />
   <project name="cm12-amami/android_external_libexif" path="external/libexif" />
   <project name="cm12-amami/android_external_libhevc" path="external/libhevc" />
@@ -65,6 +66,8 @@
   <project name="cm12-amami/android_hardware_libhardware" path="hardware/libhardware" groups="pdk" />
   <project name="cm12-amami/android_hardware_qcom_audio" path="hardware/qcom/audio/default" groups="qcom,qcom_audio" />
   <project name="cm12-amami/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" groups="qcom,qcom_audio" revision="cm-12.1-caf-8974" />
+  <project name="cm12-amami/android_hardware_qcom_display" path="hardware/qcom/display" groups="qcom,qcom_display" />
+  <project name="cm12-amami/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" groups="qcom,qcom_display" revision="cm-12.1-caf-8974" />
   <project name="cm12-amami/android_hardware_qcom_media" path="hardware/qcom/media/default" groups="qcom" />
   <project name="cm12-amami/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" groups="qcom" revision="cm-12.1-caf-8974" />
   <project name="cm12-amami/android_hardware_ril" path="hardware/ril" groups="pdk" />
@@ -87,6 +90,7 @@
   <project name="cm12-amami/android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" />
   <project name="cm12-amami/android_packages_providers_TelephonyProvider" path="packages/providers/TelephonyProvider" />
   <project name="cm12-amami/android_packages_providers_UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" />
+  <project name="cm12-amami/android_packages_services_Telecomm" path="packages/services/Telecomm" />
   <project name="cm12-amami/android_packages_services_Telephony" path="packages/services/Telephony" />
   <project name="cm12-amami/android_platform_external_giflib" path="external/giflib" groups="pdk-cw-fs,qcom_msm8x26" />  
   <project name="cm12-amami/android_platform_external_libnl" path="external/libnl" groups="pdk" />
@@ -103,7 +107,6 @@
   <include name="ref/sony-lineage.xml" />
 
   <!-- LineageOS references from higher branches -->
-  <project name="LineageOS/android_external_freetype" path="external/freetype" groups="pdk" revision="cm-13.0" />
   <project name="LineageOS/android_external_chromium-webview" path="external/chromium-webview" clone-depth="1" revision="master" />
 
   <!-- AOSP references from higher releases -->

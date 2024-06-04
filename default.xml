@@ -55,6 +55,7 @@
   <project name="cm12-amami/android_external_sqlite" path="external/sqlite" groups="pdk" />
   <project name="cm12-amami/android_external_svox" path="external/svox" groups="pdk-cw-fs" />
   <project name="cm12-amami/android_external_tremolo" path="external/tremolo" groups="pdk" />
+  <project name="cm12-amami/android_external_chromium-webview" path="external/chromium-webview" clone-depth="1" />
   <project name="cm12-amami/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" groups="pdk" />
   <project name="cm12-amami/android_frameworks_av" path="frameworks/av" groups="pdk" />
   <project name="cm12-amami/android_frameworks_base" path="frameworks/base" groups="pdk-cw-fs" />
@@ -107,7 +108,6 @@
   <include name="ref/sony-lineage.xml" />
 
   <!-- LineageOS references from higher branches -->
-  <project name="LineageOS/android_external_chromium-webview" path="external/chromium-webview" clone-depth="1" revision="master" />
   <project name="LineageOS/android_tools_extract-utils" path="tools/extract-utils" clone-depth="1" revision="lineage-21.0" />
 
   <!-- AOSP references from higher releases -->

@@ -108,6 +108,7 @@
 
   <!-- LineageOS references from higher branches -->
   <project name="LineageOS/android_external_chromium-webview" path="external/chromium-webview" clone-depth="1" revision="master" />
+  <project name="LineageOS/android_tools_extract-utils" path="tools/extract-utils" clone-depth="1" revision="lineage-21.0" />
 
   <!-- AOSP references from higher releases -->
   <project name="platform/external/jhead" path="external/jhead" remote="aosp" revision="refs/tags/android-6.0.1_r81"/>
